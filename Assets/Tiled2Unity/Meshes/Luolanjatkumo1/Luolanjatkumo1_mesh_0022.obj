@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Luolanjatkumo1_mesh_0022.obj'
+
+# Vertices (Count = 4)
+v -2112 -1568 0
+v -2144 -1568 0
+v -2144 -1536 0
+v -2112 -1536 0
+
+# Texture cooridinates (Count = 4)
+vt 0.6666667 0.8740157
+vt 0.7 0.8740157
+vt 0.7 0.9370079
+vt 0.6666667 0.9370079
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Luolanjatkumo1_mesh_0022
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+
